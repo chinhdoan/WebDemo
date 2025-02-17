@@ -1,0 +1,17 @@
+.menuBar{
+  
+}
+.logo{
+    font-size:30px;
+    text-decoration: none;
+    color:black;
+    font-style: bold;
+}
+Nav{
+    
+    font-size:20px;
+}
+
+Nav .me-auto{
+    margin-left:200px;
+}
